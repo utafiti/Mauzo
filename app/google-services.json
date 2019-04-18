@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "665078503526",
+    "firebase_url": "https://mauzo-60211.firebaseio.com",
+    "project_id": "mauzo-60211",
+    "storage_bucket": "mauzo-60211.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665078503526:android:72ed2595ed039dde",
+        "android_client_info": {
+          "package_name": "com.example.mauzo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665078503526-mv7ok5qt3qh8tco9j8gvq2lgdf36k7s5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mauzo",
+            "certificate_hash": "a27d05c7553ba263ea5acd555cdde5bcd0f12ae6"
+          }
+        },
+        {
+          "client_id": "665078503526-goo8vqua4768l9el36sqcn5lhid5ofn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpH33iEDNJLHWVJ5URAPsABJaqqx26Spg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665078503526-goo8vqua4768l9el36sqcn5lhid5ofn1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
